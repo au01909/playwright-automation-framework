@@ -1,0 +1,8 @@
+Feature: Browse services and reach the booking page
+
+Verify user can
+visit homepage
+click the Services link in the navigation
+see the Drain Cleaning service listed
+click "Book Service" under Drain Cleaning
+land on the Book Now page

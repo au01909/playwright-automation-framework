@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+reports/
+screenshots/
+traces/
+videos/
+generated-tests/
+healing/*.db
+*.log
